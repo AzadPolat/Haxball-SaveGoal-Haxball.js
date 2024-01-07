@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "haxball.js": "^2.1.3"
+  }
+}
