@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Haxball Save Goal and Send Discord Chanell 👋</h1>
+<h1 align="center">Welcome to Haxball Save Goal 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/kravatlimuz" target="_blank">
